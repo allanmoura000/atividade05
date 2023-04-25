@@ -1,0 +1,17 @@
+
+body{
+    background-color: #eed5d5;
+}
+main{
+    margin-bottom: 15px;
+}
+a{
+    background-color: white;
+    padding: 3px;
+    margin: 5px;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: rgb(105, 64, 104);
+    color: white;
+}
